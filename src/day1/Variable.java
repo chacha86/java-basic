@@ -45,5 +45,32 @@ public class Variable {
 
         // 자기소개 10번 출력
         // 안녕하세요. ~~살 ~~입니다.
+
+        int age;
+        age = 39;
+
+        String name2;
+        name2 = "차태현";
+
+        System.out.println("안녕하세요. " + age + "살 " + name2 + "입니다.");
+        System.out.println("안녕하세요. " + age + "살 " + name2 + "입니다.");
+        System.out.println("안녕하세요. " + age + "살 " + name2 + "입니다.");
+        System.out.println("안녕하세요. " + age + "살 " + name2 + "입니다.");
+        System.out.println("안녕하세요. " + age + "살 " + name2 + "입니다.");
+
+
+        // 변수 주의사항
+        // 변수명은 중복되지 않도록 지어야 한다.
+        // 변수명은 숫자로 시작하면 안된다.
+        // 변수는 재활용 가능하다
+
+        int a;
+        a = 10;
+        System.out.println(a);
+
+        a = 20;
+        System.out.println(a);
+
+
     }
 }
