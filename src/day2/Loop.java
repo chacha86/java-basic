@@ -44,8 +44,6 @@ public class Loop {
         // 나머지 구하는 연산자 %
 
 
-
-
         // 1부터 10까지 4의 배수 출력
 //        for(int i = 4; i <= 10; i+=4) {
 //            System.out.println(i);
