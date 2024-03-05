@@ -38,18 +38,11 @@ public class DoubleLoop {
 
         // 2단 8번 만들어보겠다.
 
-
-
         for(int dan2 = 2; dan2 < 10; dan2++) {
             for (int i = 1; i <= 9; i++) {
                 System.out.println(dan2 + " X " + i + " = " + (dan2 * i));
             }
         }
-
-
-
-
-
 
     }
 }
