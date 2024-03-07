@@ -15,4 +15,8 @@ public class Account {
         remainder -= withdrawMoney;
         return withdrawMoney;
     }
+
+    public int getRemainder() {
+        return remainder;
+    }
 }
