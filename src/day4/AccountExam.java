@@ -8,8 +8,8 @@ public class AccountExam {
         a1.deposit(2000); // 2000원을 예금했습니다.
         a1.deposit(3000); // 3000원을 예금했습니다.
 //
-//        int money = a1.withdraw(400);
-//        System.out.println(money); // 400
+        int money = a1.withdraw(400);
+        System.out.println(money); // 400
 //
 //        int remainder = a1.getRemainder();
 //        System.out.println(remainder); // 5600
