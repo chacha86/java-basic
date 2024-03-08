@@ -1,4 +1,4 @@
-package day5;
+package day5.tv1;
 
 public class TVSimulation {
     public static void main(String[] args) {
@@ -56,9 +56,11 @@ public class TVSimulation {
 
         LGTv aLGTv2 = (LGTv)a표준Tv;
         aLGTv2.게임모드전환();
+
     }
 }
 
+// 추상클래스는 객체화하여 사용할 수 없다. 반드시 상속받아 오버라이딩 해서 사용해야 한다.
 abstract class 표준Tv{ // 추상클래스
     abstract void 켜기();  // 추상메서드
 
