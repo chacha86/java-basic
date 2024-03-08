@@ -22,7 +22,7 @@ public class Constructor {
 
 //        new 사람(); // 생성자 호출
 
-        사람 b사람 = new 사람();
+//        사람 b사람 = new 사람();
 
     }
 }
