@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a519c6dc-b86f-4f34-a56d-fdd7582e90e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day5/tv2/TVSimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/Constructor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/TVSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/tv1/TVSimulation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,20 @@
       <recent name="C:\Users\admin\Desktop\cha-work\친구들 erd\exam0304\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.day5.tv2.TVSimulation">
+  <component name="RunManager" selected="Application.Constructor">
+    <configuration name="Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day5.Constructor" />
+      <module name="exam0304" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TVSimulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day5.tv1.TVSimulation" />
       <module name="exam0304" />
@@ -99,6 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Constructor" />
         <item itemvalue="Application.day5.tv2.TVSimulation" />
         <item itemvalue="Application.TVSimulation" />
         <item itemvalue="Application.WarriorSimulation" />
@@ -117,7 +130,7 @@
       <workItem from="1709596721918" duration="18366000" />
       <workItem from="1709682617026" duration="20886000" />
       <workItem from="1709769007161" duration="17319000" />
-      <workItem from="1709855666065" duration="4650000" />
+      <workItem from="1709855666065" duration="6644000" />
     </task>
     <servers />
   </component>
