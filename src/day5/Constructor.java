@@ -22,7 +22,9 @@ public class Constructor {
 
 //        new 사람(); // 생성자 호출
 
-//        사람 b사람 = new 사람();
+        사람 b사람 = new 사람();
+        사람 c사람 = new 사람(20);
+
 
     }
 }
@@ -39,6 +41,14 @@ class 사람 {
         this.나이 = 나이;
         this.이름 = 이름;
         this.거주지 = 거주지;
+    }
+
+    public 사람(int 나이) {
+
+    }
+
+    public 사람() {
+
     }
 
 //    public 사람(){} // 기본 생성자. 안만들면 자바가 자동으로 만들어줌.
