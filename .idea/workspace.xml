@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a519c6dc-b86f-4f34-a56d-fdd7582e90e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day5/ConstructorChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5/duckComposition/DuckSimulation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day5/Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/Constructor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,12 +130,22 @@
       <workItem from="1709596721918" duration="18366000" />
       <workItem from="1709682617026" duration="20886000" />
       <workItem from="1709769007161" duration="17319000" />
-      <workItem from="1709855666065" duration="9747000" />
+      <workItem from="1709855666065" duration="13233000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
