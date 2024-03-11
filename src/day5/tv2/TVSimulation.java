@@ -111,7 +111,7 @@ class 삼성Tv extends 표준Tv {
     }
 }
 
-class LGTv extends 표준Tv {
+class LGTv extends 표준Tv { // default 접근제어자
     void 이름세팅() {
         brand = "LGTv";
     }
