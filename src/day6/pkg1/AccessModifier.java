@@ -18,7 +18,7 @@ public class AccessModifier {
         System.out.println(t1.a);
 
         Test2 t2 = new Test2();
-        t2.a = 20; // 같은 패키지 안에서도 사용 불가
+//        t2.a = 20; // 같은 패키지 안에서도 사용 불가
 //        LGTv tv = new LGTv();
 
    }
@@ -26,4 +26,5 @@ public class AccessModifier {
 
 class Test2 {
     private int a; // 자기 자신만 사용 가능. Test2 클래스 내에서만 사용 가능
+
 }
